@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/
+nlp_example/.cache
+nlp_example/data
+nlp_example/nsmc

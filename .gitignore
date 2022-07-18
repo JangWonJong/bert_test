@@ -1,3 +1,5 @@
+.idea/
+.cache/
 .ipynb_checkpoints/
 data/
 nlp_example/.cache
